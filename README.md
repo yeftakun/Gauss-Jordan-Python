@@ -17,5 +17,7 @@ Program ini dibuat menggunakan teknologi ChatGPT, sebuah model bahasa yang dikem
 
 [![ChatGPT](https://img.shields.io/badge/Powered%20by-ChatGPT-9cf)](https://chat.openai.com/)
 
+![Python](https://img.shields.io/badge/Powered%20by-Python-9cf)
+
 
 
