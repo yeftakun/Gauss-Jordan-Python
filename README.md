@@ -13,6 +13,9 @@ This program solves a system of linear equations using the Gauss-Jordan eliminat
 
 ## Credits
 
-This program was created by ChatGPT, an OpenAI language model. If you have any questions or need assistance, feel free to ask.
+Program ini dibuat menggunakan teknologi ChatGPT, sebuah model bahasa yang dikembangkan oleh OpenAI. Model ini digunakan untuk menghasilkan kode dan memberikan saran, termasuk kode untuk program ini. Jika Anda memiliki pertanyaan atau membutuhkan bantuan lebih lanjut, jangan ragu untuk menghubungi ChatGPT.
+
+[![ChatGPT](https://img.shields.io/badge/Powered%20by-ChatGPT-9cf)](https://chat.openai.com/)
+
 
 
