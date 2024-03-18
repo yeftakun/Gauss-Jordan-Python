@@ -2,16 +2,11 @@
 
 This program solves a system of linear equations using the Gauss-Jordan elimination method.
 
-## How to Run
+```
+git clone https://github.com/yeftakun/Gauss-Jordan-Python.git
+```
 
-1. Make sure you have Python installed on your system.
-2. Clone or download the repository to your local machine.
-3. Open a terminal or command prompt and navigate to the directory containing the downloaded files.
-4. Run the program by executing the following command:
-5. Follow the on-screen instructions to enter the augmented matrix values for your system of equations.
-6. The program will display the matrix before and after the Gauss-Jordan elimination process, as well as the solution to the linear equations.
-
-[![ChatGPT](https://img.shields.io/badge/Powered%20by-ChatGPT-9cf)](https://chat.openai.com/) [![Python](https://img.shields.io/badge/Build%20with-Python-9cf)](https://www.python.org/)
+Run `SPL-Gauss-Jordan-GUI.py` or `SPL-Gauss-Jordan.py`
 
 
 
